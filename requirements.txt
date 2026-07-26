@@ -1,0 +1,8 @@
+tensorflow
+numpy
+music21
+pretty_midi
+streamlit
+pygame
+requests
+rich
